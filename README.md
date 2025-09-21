@@ -9,7 +9,7 @@ For Development...
 
 ```sh
 git clone https://github.com/mhmamun86/black-react-setup.git
-cd React-Tailwind
+cd react-blank-setup
 npm install
 npm run dev
 ```
