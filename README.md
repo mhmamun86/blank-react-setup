@@ -8,7 +8,7 @@ Tailwind CSS .
 For Development...
 
 ```sh
-git clone https://github.com/mhmamun86/black-react-setup.git
+git clone https://github.com/mhmamun86/react-blank-setup.git
 cd react-blank-setup
 npm install
 npm run dev
